@@ -1,7 +1,7 @@
 const voterDatabase = {
-    totalVoters: 1138,
-    maleVoters: 595,
-    femaleVoters: 543,
+    totalVoters: 1142,
+    maleVoters: 597,
+    femaleVoters: 545,
     voters: [
         {
     "serial": "001",
