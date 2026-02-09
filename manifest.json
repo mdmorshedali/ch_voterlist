@@ -1,0 +1,21 @@
+{
+  "name": "চর কাশিমপুর ভোটার সার্চিং সিস্টেম",
+  "short_name": "ভোটার সার্চ",
+  "description": "চর কাশিমপুর এলাকার ভোটার তথ্য খোঁজার অফলাইন অ্যাপ",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#006A4E",
+  "theme_color": "#006A4E",
+  "icons": [
+    {
+      "src": "https://tse2.mm.bing.net/th/id/OIP.ZqhUYgY3v8O3Egh91HlhhgHaHa?rs=1&pid=ImgDetMain",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://tse2.mm.bing.net/th/id/OIP.ZqhUYgY3v8O3Egh91HlhhgHaHa?rs=1&pid=ImgDetMain",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
