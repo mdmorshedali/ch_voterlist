@@ -1,4 +1,4 @@
-const CACHE_NAME = 'voter-app-v2';
+const CACHE_NAME = 'voter-app-v3';
 const assets = [
   './',
   './index.html',
@@ -39,6 +39,7 @@ self.addEventListener('activate', e => {
   );
 
 });
+
 
 
 
